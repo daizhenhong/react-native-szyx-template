@@ -1,7 +1,7 @@
 {
-  "name": "reactNativeSzyx",
+  "name": "react-native-template-szyx",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "react-native start",
     "test": "jest",
@@ -33,5 +33,25 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "数字医信react native项目的模版",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daizhenhong/react-native-szyx-template.git"
+  },
+  "keywords": [
+    "szyx",
+    "react-native",
+    "react-native-szyx-template",
+    "bjca",
+    "react",
+    "template"
+  ],
+  "author": "daizhenhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daizhenhong/react-native-szyx-template/issues"
+  },
+  "homepage": "https://github.com/daizhenhong/react-native-szyx-template#readme"
 }
